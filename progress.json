@@ -1,0 +1,45 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786623926.345151,
+    "completed_at": 1786623927.634099,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786625273.384098,
+    "completed_at": 1786625276.185772,
+    "comments": [
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) did not match any of the accepted answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786625337.420332,
+    "completed_at": 1786625338.598629,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786623424.242114,
+    "completed_at": 1786623425.805219,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786623467.210534,
+    "completed_at": 1786623468.810415,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  }
+]
