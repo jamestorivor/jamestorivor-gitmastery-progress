@@ -330,5 +330,14 @@
       "Nice work renaming the branch locally and on the remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1787641001.227284,
+    "completed_at": 1787641004.556961,
+    "comments": [
+      "The local STU branch does not track origin/STU."
+    ],
+    "status": "Incomplete"
   }
 ]
