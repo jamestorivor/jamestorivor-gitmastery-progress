@@ -339,5 +339,14 @@
       "The local STU branch does not track origin/STU."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1787641081.311829,
+    "completed_at": 1787641085.268612,
+    "comments": [
+      "The local STU branch does not track origin/STU."
+    ],
+    "status": "Incomplete"
   }
 ]
